@@ -64,6 +64,9 @@ public class MyLinkedListsTest {
         result = new ArrayList<>(Arrays.asList(10, 11, 16, 15, 14, 13, 12));
         index = 0;
 
+        // James: This while loop is duplicated code. Better to write a function used in this test file that
+        // takes a linked list and populates an arraylist with the values by traversing it. Then you can do 
+        // assertArrayListEquals or whatever that function is.
         while (head != null) {
             int num = result.get(index);
 

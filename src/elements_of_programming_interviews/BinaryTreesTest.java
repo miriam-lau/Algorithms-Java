@@ -19,6 +19,11 @@ public class BinaryTreesTest {
     BTNode G;
     BTNode H;
 
+    // James: Could be helpful to have a diagram of what the tree looks like in an ascii diagram
+    //              A
+    //             / \
+    //            B   C
+    //            /    \ ... etc.
     @Before
     public void initialize() {
         tree = new BinaryTrees();

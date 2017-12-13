@@ -17,8 +17,12 @@ public class MyArraysTest {
     }
 
     @org.junit.Test
+    // James: Return random subsets 
+    // James: Actually returning random subsets is not testable. You can only ensure the size of the returned
+    // array is correct.
     public void evenFirst() throws Exception {
         ArrayList<Integer> ints1 = new ArrayList<>(Arrays.asList(1, 2, 3, 4, 5, 6, 7, 8, 9));
+        // James: Just pass size directly into the function instead of having a variable that's only used once.
         int size = 5;
         ArrayList<Integer> copyInt1 = new ArrayList<>(ints1);
         myArrays.evenFirst(ints1, size);
@@ -26,6 +30,7 @@ public class MyArraysTest {
         assertFalse(ints1.equals(copyInt1));
 
         ArrayList<Integer> ints2 = new ArrayList<>(Arrays.asList(1));
+        // James: Just pass size directly into the function.
         size = 1;
         ArrayList<Integer> copyInt2 = new ArrayList<>(ints2);
         myArrays.evenFirst(ints2, size);
@@ -41,6 +46,7 @@ public class MyArraysTest {
         matrix.add(new ArrayList<>(Arrays.asList(7, 8, 9)));
         List<Integer> result = new ArrayList<>(Arrays.asList(1, 2, 3, 6, 9, 8, 7, 4, 5));
 
+        // James: Expected value should come before actual.
         assertEquals(myArrays.computeSpiralOrdering(matrix), result);
     }
 }

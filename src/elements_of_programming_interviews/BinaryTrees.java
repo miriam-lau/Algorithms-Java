@@ -14,10 +14,13 @@ public class BinaryTrees {
      * Time complexity: O(h), where h is the height of the tree, worst case the LCA is the root node
      * Space complexity: O(1)
      */
+    // James: BtNode node1, BTNode node2
     public BTNode findLCA(BTNode one, BTNode two) {
         // Find the depths of the nodes.
+        // James: node1Depth
         int depthOfOne = 0;
         int depthOfTwo = 0;
+        // James: Should be a different name but not sure what. node1Ptr maybe.
         BTNode oneCopy = one;
         BTNode twoCopy = two;
 

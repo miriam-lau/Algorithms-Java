@@ -33,7 +33,7 @@ public class MyLinkedListsTest {
         a = new Node(10, b);
     }
 
-    @Test;
+    @Test
     public void reverseSublist() throws Exception {
         Node currNode = a;
         while (currNode != null) {

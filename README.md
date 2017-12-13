@@ -24,3 +24,7 @@ Selected problems starting from Chapter 5.
 
 #### Chapter 10 Heaps:
 - 10.4 Compute the k closest stars
+
+#### Chapter 11 Searching:
+- 11.4 Compute the integer square root
+- 11.8 Find the kth largest element

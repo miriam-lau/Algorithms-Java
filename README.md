@@ -18,3 +18,6 @@ Selected problems starting from Chapter 5.
 #### Chapter 8 Stack and Queues:
 - 8.2 Evaluate RPN expressions
 - 8.8 Implement a circular queue
+
+#### Chapter 9 Binary Trees:
+- 9.4 Compute the LCA when nodes have parent pointers

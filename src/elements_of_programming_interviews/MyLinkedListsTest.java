@@ -13,17 +13,25 @@ import java.util.List;
 public class MyLinkedListsTest {
     MyLinkedLists myList;
 
+    Node a;
+    Node b;
+    Node c;
+    Node d;
+    Node e;
+    Node f;
+    Node g;
+
     @Before public void initialize() {
         myList = new MyLinkedLists();
-    }
 
-    Node g = new Node(16, null);
-    Node f = new Node(15, g);
-    Node e = new Node(14, f);
-    Node d = new Node(13, e);
-    Node c = new Node(12, d);
-    Node b = new Node(11, c);
-    Node a = new Node(10, b);
+        g = new Node(16, null);
+        f = new Node(15, g);
+        e = new Node(14, f);
+        d = new Node(13, e);
+        c = new Node(12, d);
+        b = new Node(11, c);
+        a = new Node(10, b);
+    }
 
     @Test
     public void reverseSublist() throws Exception {

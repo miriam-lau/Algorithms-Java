@@ -9,8 +9,7 @@ package elements_of_programming_interviews;
  *  4) dynamic resizing to support storing an arbitrarily large number of elements.
  *
  * Solution: Need to keep track of start and end Index in the queue
- * Time complexity:
- * Space complexity:
+ * Time complexity: enqueue() is O(1) amortized time, dequeue() is O(1), size() is O(1), resize() is O(n)
  */
 public class MyQueues {
     public int capacity;

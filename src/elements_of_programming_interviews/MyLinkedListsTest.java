@@ -2,6 +2,7 @@ package elements_of_programming_interviews;
 
 import org.junit.Before;
 import org.junit.Test;
+
 import static org.junit.Assert.*;
 
 import java.util.ArrayList;
@@ -31,7 +32,6 @@ public class MyLinkedListsTest {
             currNode = currNode.next;
         }
 
-        System.out.println("WORKS FOR THE NORMAL CASE");
         Node head = myList.reverseSublist(a, 2, 5);
         List<Integer> result = new ArrayList<>(Arrays.asList(10, 14, 13, 12, 11, 15, 16));
         int index = 0;
@@ -44,7 +44,6 @@ public class MyLinkedListsTest {
             head = head.next;
         }
 
-        System.out.println("WORKS IF FINISH IS LAST NODE");
         a.next = b;
         b.next = c;
         c.next = d;
@@ -66,7 +65,6 @@ public class MyLinkedListsTest {
             head = head.next;
         }
 
-        System.out.println("WORKS IF START IS FIRST NODE");
         a.next = b;
         b.next = c;
         c.next = d;

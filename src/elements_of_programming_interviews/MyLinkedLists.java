@@ -60,4 +60,22 @@ public class MyLinkedLists {
 
         return node;
     }
+
+    /*
+     * 7.3 Test for cyclicity (James already solved)
+     * Input: head of a singly linked list
+     * Output: returns null if a cycle does not exist or the node at the start of the cycle if a cycle exists
+     * Do not know the length of the linked list.
+     *
+     * Solution:
+     *  1) Determine if a cycle is present using a slow and fast iterator to traverse the list.
+     *  -- Steps below are if a cycle is found --
+     *  2) Find the cycle length by storing the number of advances in a variable, then advancing either the slow or fast
+     *      iterator by one until they meet again.
+     *  3) Create a new pointer pointing to the head, say pointer 'a', and advance it by the cycle length.
+     *  4) Create another new pointer pointing to the head, say pointer 'b', and advance both pointers 'a' and 'b' in
+     *      tandem until they meet. The meet point is the start of the cycle.
+     * Time complexity: O(n)
+     * Space complexity: O(1)
+     */
 }

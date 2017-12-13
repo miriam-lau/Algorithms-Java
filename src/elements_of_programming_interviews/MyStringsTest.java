@@ -2,6 +2,7 @@ package elements_of_programming_interviews;
 
 import org.junit.Before;
 import org.junit.Test;
+
 import static org.junit.Assert.*;
 
 
@@ -35,7 +36,7 @@ public class MyStringsTest {
 
         assertEquals("Mask Tuxedo likes Moon Sailor", myStrings.reverseWordOrder(s1));
         assertEquals("Serena", myStrings.reverseWordOrder(s2));
-        assertEquals("", myStrings.reverseWordOrder(""));
+        assertEquals("", myStrings.reverseWordOrder(s3));
 
     }
 }

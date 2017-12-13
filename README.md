@@ -14,3 +14,7 @@ Selected problems starting from Chapter 5.
 #### Chapter 7 Linked Lists:
 - 7.2 Reverse a single sublist
 - 7.3 Test for cyclicity (James solved already)
+
+#### Chapter 8 Stack and Queues:
+- 8.2 Evaluate RPN expressions
+- 8.8 Implement a circular queue

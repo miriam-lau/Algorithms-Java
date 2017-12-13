@@ -15,12 +15,14 @@ public class MyArrays {
      * Time complexity: O(m), where m is the size, worst case is m = n (size of the array itself).
      * Space complexity: O(1)
      */
+    // James: public void sampleOfflineData
     public void evenFirst(ArrayList<Integer> ints, int size) {
         if (size > ints.size() || size < 0) {
             throw new IllegalArgumentException("Size is out of bounds");
         }
 
         for (int i = 0; i < size; i++) {
+            // James:  Math.floor((Math.random() * (ints.size() - i) + i));
             int swapIndex = (int)(Math.random() * (((ints.size() - 1) - i) + 1) + i);
             int temp = ints.get(i);
             ints.set(i, ints.get(swapIndex));
@@ -51,6 +53,7 @@ public class MyArrays {
             result.add(matrix.get(verticalIndex).get(horizontalIndex));
 
             if (direction == "right") {
+                //James: if (horizontalIndex == (matrix.size() - 1 - horizontalOffset)) {
                 if (horizontalIndex == (matrix.size() - 1) - horizontalOffset) {
                     direction = "down";
                     verticalIndex++;

@@ -21,3 +21,6 @@ Selected problems starting from Chapter 5.
 
 #### Chapter 9 Binary Trees:
 - 9.4 Compute the LCA when nodes have parent pointers
+
+#### Chapter 10 Heaps:
+- 10.4 Compute the k closest stars

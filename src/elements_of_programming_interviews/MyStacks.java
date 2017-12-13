@@ -24,7 +24,7 @@ public class MyStacks {
             return 0;
         }
 
-        String[] strArray = str.split(", ");
+        String[] strArray = str.split(",");
         Deque<Integer> stack = new ArrayDeque<>();
 
         for (int i = 0; i < strArray.length; i++) {

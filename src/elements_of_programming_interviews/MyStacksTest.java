@@ -15,8 +15,8 @@ public class MyStacksTest {
 
     @Test
     public void evaluateRPNExpression() throws Exception {
-        String expression1 = "3, 4, +, 2, x, 2, -, 2, /";
-        String expression2 = "1, 1, +, -2, x";
+        String expression1 = "3,4,+,2,x,2,-,2,/";
+        String expression2 = "1,1,+,-2,x";
         String expression3 = "";
         String expression4 = "1729";
 

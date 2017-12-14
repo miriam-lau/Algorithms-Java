@@ -50,15 +50,16 @@ public class Searches {
      * Design an algorithm for computing the kth largest element in an array.
      * Assume entries are distinct and array is not sorted.
      *
+     * Input: array of integers
+     * Output: return the kth largest element
      * Example: A = [3, 2, 1, 5, 4], A[3] is the first largest element and A[0] is the third largest element
      *
      * Solution: Need to either sort the array or store k elements in a heap. Time complexity would be O(n) at best
      *  because will need to look at each element in the array once. For space, a heap would be O(k) and at worst case
      *  it would O(n) where k is the length of the array. If can sort the array itself, then space is reduced to O(1).
      *  Sort array using a partition index set to k.
-     *
-     * Input: array of integers
-     * Output: return the kth largest element
+     * Time complexity: O(n*logn)
+     * Space complexity: O(1)
      */
     public int findKLargestElement(List<Integer> list, int k) {
         // Sort on a pivot.

@@ -10,6 +10,8 @@ public class MyLinkedLists {
      *
      * Solution: Need to have a pointer to the node before start and node after finish, so after reversing the sublist
      *  the sublist and other nodes point to the correct node.
+     * Time complexity: O(n)
+     * Space complexity: O(1)
      */
     public Node reverseSublist(Node node, int start, int finish) {
         Node startNode = node;

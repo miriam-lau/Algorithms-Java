@@ -28,7 +28,7 @@ public class SearchesTest {
     @Test
     public void findKLargestElement() throws Exception {
         List<Integer> list1 = new ArrayList<>(Arrays.asList(3, 2, 1, 5, 4));
-        
+
         assertEquals(5, searches.findKLargestElement(list1, 1));
         assertEquals(1, searches.findKLargestElement(list1, 5));
         assertEquals(3, searches.findKLargestElement(list1, 3));

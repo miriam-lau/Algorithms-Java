@@ -12,6 +12,7 @@ Selected problems starting from Chapter 5.
 - 6.6 Reverse all the words in a sentence
 
 #### Chapter 7 Linked Lists:
+- Node class
 - 7.2 Reverse a single sublist
 - 7.3 Test for cyclicity (James solved already)
 
@@ -20,11 +21,20 @@ Selected problems starting from Chapter 5.
 - 8.8 Implement a circular queue
 
 #### Chapter 9 Binary Trees:
+- BTNode class
 - 9.4 Compute the LCA when nodes have parent pointers
 
 #### Chapter 10 Heaps:
+- Star class
 - 10.4 Compute the k closest stars
 
 #### Chapter 11 Searching:
 - 11.4 Compute the integer square root
 - 11.8 Find the kth largest element
+
+#### Chapter 12 Hash Tables:
+- 12.3 Implement an ISBN cache (ISBNCache class)
+- 12.6 Find the nearest repeated entries in an array
+
+#### Chapter 13 Sorting:
+- 13.2 Merge two sorted arrays

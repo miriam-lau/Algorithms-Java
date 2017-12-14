@@ -2,16 +2,24 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7e8ab660-ed1f-4350-a9dc-8a53a637be63" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/elements_of_programming_interviews/Searches.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/elements_of_programming_interviews/SearchesTest.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Algorithms_Java/elements_of_programming_interviews/BinaryTrees.class" afterPath="$PROJECT_DIR$/out/production/Algorithms_Java/elements_of_programming_interviews/BinaryTrees.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Algorithms_Java/elements_of_programming_interviews/BinaryTreesTest.class" afterPath="$PROJECT_DIR$/out/production/Algorithms_Java/elements_of_programming_interviews/BinaryTreesTest.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Algorithms_Java/elements_of_programming_interviews/MyArrays.class" afterPath="$PROJECT_DIR$/out/production/Algorithms_Java/elements_of_programming_interviews/MyArrays.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Algorithms_Java/elements_of_programming_interviews/MyArraysTest.class" afterPath="$PROJECT_DIR$/out/production/Algorithms_Java/elements_of_programming_interviews/MyArraysTest.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Algorithms_Java/elements_of_programming_interviews/MyLinkedListsTest.class" afterPath="$PROJECT_DIR$/out/production/Algorithms_Java/elements_of_programming_interviews/MyLinkedListsTest.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Algorithms_Java/elements_of_programming_interviews/ISBNCache$1.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Algorithms_Java/elements_of_programming_interviews/ISBNCache.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Algorithms_Java/elements_of_programming_interviews/MyHashTables.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Algorithms_Java/elements_of_programming_interviews/MyHashTablesTest.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Algorithms_Java/elements_of_programming_interviews/Sorts.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Algorithms_Java/elements_of_programming_interviews/SortsTest.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/elements_of_programming_interviews/ISBNCache.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/elements_of_programming_interviews/MyHashTables.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/elements_of_programming_interviews/MyHashTablesTest.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/elements_of_programming_interviews/Sorts.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/elements_of_programming_interviews/SortsTest.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Algorithms_Java/elements_of_programming_interviews/MyLinkedLists.class" afterPath="$PROJECT_DIR$/out/production/Algorithms_Java/elements_of_programming_interviews/MyLinkedLists.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Algorithms_Java/elements_of_programming_interviews/Searches.class" afterPath="$PROJECT_DIR$/out/production/Algorithms_Java/elements_of_programming_interviews/Searches.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/elements_of_programming_interviews/MyLinkedListsTest.java" afterPath="$PROJECT_DIR$/src/elements_of_programming_interviews/MyLinkedListsTest.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/elements_of_programming_interviews/MyLinkedLists.java" afterPath="$PROJECT_DIR$/src/elements_of_programming_interviews/MyLinkedLists.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/elements_of_programming_interviews/Searches.java" afterPath="$PROJECT_DIR$/src/elements_of_programming_interviews/Searches.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/elements_of_programming_interviews/SearchesTest.java" afterPath="$PROJECT_DIR$/src/elements_of_programming_interviews/SearchesTest.java" />
     </list>
     <ignored path="Algorithms_Java.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -35,12 +43,24 @@
     <splitter split-orientation="horizontal" split-proportion="0.5">
       <split-first>
         <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-          <file leaf-file-name="Searches.java" pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/src/elements_of_programming_interviews/Searches.java">
+          <file leaf-file-name="Sorts.java" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/src/elements_of_programming_interviews/Sorts.java">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="1080">
-                  <caret line="72" column="48" selection-start-line="72" selection-start-column="48" selection-end-line="72" selection-end-column="48" />
+                <state relative-caret-position="627">
+                  <caret line="45" column="25" selection-start-line="45" selection-start-column="25" selection-end-line="45" selection-end-column="25" />
                   <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="ISBNCache.java" pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/src/elements_of_programming_interviews/ISBNCache.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="105">
+                  <caret line="7" column="56" selection-start-line="7" selection-start-column="56" selection-end-line="7" selection-end-column="56" />
+                  <folding>
+                    <element signature="imports" expanded="true" />
+                  </folding>
                 </state>
               </provider>
             </entry>
@@ -49,14 +69,15 @@
       </split-first>
       <split-second>
         <leaf>
-          <file leaf-file-name="SearchesTest.java" pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/src/elements_of_programming_interviews/SearchesTest.java">
+          <file leaf-file-name="SortsTest.java" pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/src/elements_of_programming_interviews/SortsTest.java">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="345">
-                  <caret line="30" column="8" selection-start-line="30" selection-start-column="8" selection-end-line="30" selection-end-column="8" />
+                <state relative-caret-position="525">
+                  <caret line="35" column="42" selection-start-line="35" selection-start-column="42" selection-end-line="35" selection-end-column="42" />
                   <folding>
-                    <element signature="e#296#297#0" expanded="true" />
-                    <element signature="e#337#338#0" expanded="true" />
+                    <element signature="imports" expanded="true" />
+                    <element signature="e#211#212#0" expanded="true" />
+                    <element signature="e#247#248#0" expanded="true" />
                   </folding>
                 </state>
               </provider>
@@ -91,7 +112,6 @@
         <option value="$PROJECT_DIR$/src/elements_of_programming_interviews/MyStrings.java" />
         <option value="$PROJECT_DIR$/src/elements_of_programming_interviews/NodeTest.java" />
         <option value="$PROJECT_DIR$/src/elements_of_programming_interviews/Node.java" />
-        <option value="$PROJECT_DIR$/src/elements_of_programming_interviews/MyLinkedLists.java" />
         <option value="$PROJECT_DIR$/src/elements_of_programming_interviews/MyArraysTest.java" />
         <option value="$PROJECT_DIR$/src/elements_of_programming_interviews/MyQueuesTest.java" />
         <option value="$PROJECT_DIR$/src/elements_of_programming_interviews/MyStringsTest.java" />
@@ -105,10 +125,17 @@
         <option value="$PROJECT_DIR$/src/elements_of_programming_interviews/Star.java" />
         <option value="$PROJECT_DIR$/src/elements_of_programming_interviews/Heaps.java" />
         <option value="$PROJECT_DIR$/src/elements_of_programming_interviews/HeapsTest.java" />
-        <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/src/elements_of_programming_interviews/MyLinkedListsTest.java" />
-        <option value="$PROJECT_DIR$/src/elements_of_programming_interviews/Searches.java" />
         <option value="$PROJECT_DIR$/src/elements_of_programming_interviews/SearchesTest.java" />
+        <option value="$PROJECT_DIR$/src/elements_of_programming_interviews/MyLinkedLists.java" />
+        <option value="$PROJECT_DIR$/src/elements_of_programming_interviews/Searches.java" />
+        <option value="$PROJECT_DIR$/src/elements_of_programming_interviews/MyHashTablesTest.java" />
+        <option value="$PROJECT_DIR$/src/elements_of_programming_interviews/MyHashTables.java" />
+        <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/src/elements_of_programming_interviews/ISBNCacheTest.java" />
+        <option value="$PROJECT_DIR$/src/elements_of_programming_interviews/SortsTest.java" />
+        <option value="$PROJECT_DIR$/src/elements_of_programming_interviews/Sorts.java" />
+        <option value="$PROJECT_DIR$/src/elements_of_programming_interviews/ISBNCache.java" />
       </list>
     </option>
   </component>
@@ -215,47 +242,7 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.SearchesTest">
-    <configuration default="false" name="MyStacksTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="Algorithms_Java" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="elements_of_programming_interviews" />
-      <option name="MAIN_CLASS_NAME" value="elements_of_programming_interviews.MyStacksTest" />
-      <option name="METHOD_NAME" />
-      <option name="TEST_OBJECT" value="class" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <envs />
-      <patterns />
-      <method />
-    </configuration>
-    <configuration default="false" name="BinaryTreesTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="Algorithms_Java" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="elements_of_programming_interviews" />
-      <option name="MAIN_CLASS_NAME" value="elements_of_programming_interviews.BinaryTreesTest" />
-      <option name="METHOD_NAME" />
-      <option name="TEST_OBJECT" value="class" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <envs />
-      <patterns />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="JUnit.SortsTest">
     <configuration default="false" name="Star" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="elements_of_programming_interviews.Star" />
       <option name="VM_PARAMETERS" />
@@ -296,6 +283,46 @@
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PACKAGE_NAME" value="elements_of_programming_interviews" />
       <option name="MAIN_CLASS_NAME" value="elements_of_programming_interviews.SearchesTest" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="false" name="MyHashTablesTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Algorithms_Java" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="elements_of_programming_interviews" />
+      <option name="MAIN_CLASS_NAME" value="elements_of_programming_interviews.MyHashTablesTest" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="false" name="SortsTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Algorithms_Java" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="elements_of_programming_interviews" />
+      <option name="MAIN_CLASS_NAME" value="elements_of_programming_interviews.SortsTest" />
       <option name="METHOD_NAME" />
       <option name="TEST_OBJECT" value="class" />
       <option name="VM_PARAMETERS" value="-ea" />
@@ -476,19 +503,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="JUnit.MyStacksTest" />
-      <item index="1" class="java.lang.String" itemvalue="JUnit.BinaryTreesTest" />
-      <item index="2" class="java.lang.String" itemvalue="Application.Star" />
-      <item index="3" class="java.lang.String" itemvalue="JUnit.HeapsTest" />
-      <item index="4" class="java.lang.String" itemvalue="JUnit.SearchesTest" />
+      <item index="0" class="java.lang.String" itemvalue="Application.Star" />
+      <item index="1" class="java.lang.String" itemvalue="JUnit.HeapsTest" />
+      <item index="2" class="java.lang.String" itemvalue="JUnit.SearchesTest" />
+      <item index="3" class="java.lang.String" itemvalue="JUnit.MyHashTablesTest" />
+      <item index="4" class="java.lang.String" itemvalue="JUnit.SortsTest" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="JUnit.SearchesTest" />
-        <item index="1" class="java.lang.String" itemvalue="JUnit.HeapsTest" />
-        <item index="2" class="java.lang.String" itemvalue="Application.Star" />
-        <item index="3" class="java.lang.String" itemvalue="JUnit.MyStacksTest" />
-        <item index="4" class="java.lang.String" itemvalue="JUnit.BinaryTreesTest" />
+        <item index="0" class="java.lang.String" itemvalue="JUnit.SortsTest" />
+        <item index="1" class="java.lang.String" itemvalue="JUnit.MyHashTablesTest" />
+        <item index="2" class="java.lang.String" itemvalue="JUnit.SearchesTest" />
+        <item index="3" class="java.lang.String" itemvalue="JUnit.HeapsTest" />
+        <item index="4" class="java.lang.String" itemvalue="Application.Star" />
       </list>
     </recent_temporary>
   </component>
@@ -506,35 +533,35 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="SearchesTest - 2017.12.13 at 14h 05m 22s.xml">
-      <configuration name="SearchesTest" configurationId="JUnit" />
+    <history-entry file="SortsTest - 2017.12.14 at 13h 58m 59s.xml">
+      <configuration name="SortsTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="SearchesTest - 2017.12.13 at 14h 08m 17s.xml">
-      <configuration name="SearchesTest" configurationId="JUnit" />
+    <history-entry file="SortsTest - 2017.12.14 at 13h 59m 46s.xml">
+      <configuration name="SortsTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="SearchesTest - 2017.12.13 at 14h 08m 42s.xml">
-      <configuration name="SearchesTest" configurationId="JUnit" />
+    <history-entry file="SortsTest - 2017.12.14 at 13h 59m 55s.xml">
+      <configuration name="SortsTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="SearchesTest - 2017.12.13 at 14h 10m 01s.xml">
-      <configuration name="SearchesTest" configurationId="JUnit" />
+    <history-entry file="SortsTest - 2017.12.14 at 14h 03m 08s.xml">
+      <configuration name="SortsTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="SearchesTest - 2017.12.13 at 14h 24m 25s.xml">
-      <configuration name="SearchesTest" configurationId="JUnit" />
+    <history-entry file="SortsTest - 2017.12.14 at 14h 04m 20s.xml">
+      <configuration name="SortsTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="SearchesTest - 2017.12.13 at 14h 26m 02s.xml">
-      <configuration name="SearchesTest" configurationId="JUnit" />
+    <history-entry file="SortsTest - 2017.12.14 at 14h 04m 53s.xml">
+      <configuration name="SortsTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="SearchesTest - 2017.12.13 at 14h 33m 00s.xml">
-      <configuration name="SearchesTest" configurationId="JUnit" />
+    <history-entry file="SortsTest - 2017.12.14 at 14h 05m 13s.xml">
+      <configuration name="SortsTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="SearchesTest - 2017.12.13 at 14h 33m 29s.xml">
-      <configuration name="SearchesTest" configurationId="JUnit" />
+    <history-entry file="SortsTest - 2017.12.14 at 14h 05m 45s.xml">
+      <configuration name="SortsTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="SearchesTest - 2017.12.13 at 14h 34m 15s.xml">
-      <configuration name="SearchesTest" configurationId="JUnit" />
+    <history-entry file="SortsTest - 2017.12.14 at 14h 07m 15s.xml">
+      <configuration name="SortsTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="SearchesTest - 2017.12.13 at 14h 34m 30s.xml">
-      <configuration name="SearchesTest" configurationId="JUnit" />
+    <history-entry file="SortsTest - 2017.12.14 at 14h 08m 01s.xml">
+      <configuration name="SortsTest" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
@@ -547,7 +574,7 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3498322" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.33724833" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.14825046" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -598,7 +625,7 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="imports" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -623,6 +650,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="645">
           <caret line="43" column="7" selection-start-line="43" selection-start-column="7" selection-end-line="43" selection-end-column="7" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -632,9 +660,9 @@
         <state relative-caret-position="135">
           <caret line="10" column="0" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
           <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#218#219#0" expanded="true" />
-            <element signature="e#259#260#0" expanded="true" />
+            <element signature="imports" expanded="false" />
+            <element signature="e#218#219#0" expanded="false" />
+            <element signature="e#259#260#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -688,7 +716,7 @@
         <state relative-caret-position="612">
           <caret line="54" column="33" selection-start-line="54" selection-start-column="33" selection-end-line="54" selection-end-column="33" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="imports" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -698,7 +726,7 @@
         <state relative-caret-position="315">
           <caret line="23" column="70" selection-start-line="23" selection-start-column="70" selection-end-line="23" selection-end-column="70" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="imports" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -737,31 +765,15 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/elements_of_programming_interviews/MyLinkedLists.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" column="28" selection-start-line="3" selection-start-column="28" selection-end-line="3" selection-end-column="28" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/elements_of_programming_interviews/HeapsTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="642">
           <caret line="99" column="5" selection-start-line="99" selection-start-column="5" selection-end-line="99" selection-end-column="5" />
           <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#285#286#0" expanded="true" />
-            <element signature="e#319#320#0" expanded="true" />
+            <element signature="imports" expanded="false" />
+            <element signature="e#285#286#0" expanded="false" />
+            <element signature="e#319#320#0" expanded="false" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="13" column="28" selection-start-line="13" selection-start-column="28" selection-end-line="13" selection-end-column="28" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -770,7 +782,7 @@
         <state relative-caret-position="615">
           <caret line="41" column="8" selection-start-line="41" selection-start-column="8" selection-end-line="41" selection-end-column="8" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="imports" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -793,21 +805,92 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/elements_of_programming_interviews/Searches.java">
+    <entry file="file://$PROJECT_DIR$/src/elements_of_programming_interviews/SearchesTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1080">
-          <caret line="72" column="48" selection-start-line="72" selection-start-column="48" selection-end-line="72" selection-end-column="48" />
+        <state relative-caret-position="315">
+          <caret line="30" column="0" selection-start-line="30" selection-start-column="0" selection-end-line="30" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/elements_of_programming_interviews/SearchesTest.java">
+    <entry file="file://$PROJECT_DIR$/src/elements_of_programming_interviews/MyLinkedLists.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="30" column="8" selection-start-line="30" selection-start-column="8" selection-end-line="30" selection-end-column="8" />
+        <state relative-caret-position="375">
+          <caret line="25" column="24" selection-start-line="25" selection-start-column="24" selection-end-line="25" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/elements_of_programming_interviews/Searches.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="42">
+          <caret line="61" column="29" selection-start-line="61" selection-start-column="29" selection-end-line="61" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/elements_of_programming_interviews/MyHashTables.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="585">
+          <caret line="39" column="5" selection-start-line="39" selection-start-column="5" selection-end-line="39" selection-end-column="5" />
           <folding>
-            <element signature="e#296#297#0" expanded="true" />
-            <element signature="e#337#338#0" expanded="true" />
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/elements_of_programming_interviews/MyHashTablesTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="27" column="22" selection-start-line="27" selection-start-column="22" selection-end-line="27" selection-end-column="22" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="585">
+          <caret line="39" column="30" selection-start-line="39" selection-start-column="30" selection-end-line="39" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/elements_of_programming_interviews/ISBNCacheTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/elements_of_programming_interviews/SortsTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="525">
+          <caret line="35" column="42" selection-start-line="35" selection-start-column="42" selection-end-line="35" selection-end-column="42" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#211#212#0" expanded="true" />
+            <element signature="e#247#248#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/elements_of_programming_interviews/Sorts.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="627">
+          <caret line="45" column="25" selection-start-line="45" selection-start-column="25" selection-end-line="45" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/elements_of_programming_interviews/ISBNCache.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="56" selection-start-line="7" selection-start-column="56" selection-end-line="7" selection-end-column="56" />
+          <folding>
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>

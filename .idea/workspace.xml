@@ -2,24 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7e8ab660-ed1f-4350-a9dc-8a53a637be63" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Algorithms_Java/elements_of_programming_interviews/ISBNCache$1.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Algorithms_Java/elements_of_programming_interviews/ISBNCache.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Algorithms_Java/elements_of_programming_interviews/MyHashTables.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Algorithms_Java/elements_of_programming_interviews/MyHashTablesTest.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Algorithms_Java/elements_of_programming_interviews/Sorts.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Algorithms_Java/elements_of_programming_interviews/SortsTest.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/elements_of_programming_interviews/BinarySearchTrees.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/elements_of_programming_interviews/BinarySearchTreesTest.java" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/elements_of_programming_interviews/ISBNCache.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/elements_of_programming_interviews/MyHashTables.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/elements_of_programming_interviews/MyHashTablesTest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/elements_of_programming_interviews/Sorts.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/elements_of_programming_interviews/SortsTest.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Algorithms_Java/elements_of_programming_interviews/MyLinkedLists.class" afterPath="$PROJECT_DIR$/out/production/Algorithms_Java/elements_of_programming_interviews/MyLinkedLists.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Algorithms_Java/elements_of_programming_interviews/Searches.class" afterPath="$PROJECT_DIR$/out/production/Algorithms_Java/elements_of_programming_interviews/Searches.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/elements_of_programming_interviews/MyLinkedLists.java" afterPath="$PROJECT_DIR$/src/elements_of_programming_interviews/MyLinkedLists.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/elements_of_programming_interviews/Searches.java" afterPath="$PROJECT_DIR$/src/elements_of_programming_interviews/Searches.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/elements_of_programming_interviews/SearchesTest.java" afterPath="$PROJECT_DIR$/src/elements_of_programming_interviews/SearchesTest.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/elements_of_programming_interviews/BinaryTreesTest.java" afterPath="$PROJECT_DIR$/src/elements_of_programming_interviews/BinaryTreesTest.java" />
     </list>
     <ignored path="Algorithms_Java.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -43,21 +31,11 @@
     <splitter split-orientation="horizontal" split-proportion="0.5">
       <split-first>
         <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-          <file leaf-file-name="Sorts.java" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/src/elements_of_programming_interviews/Sorts.java">
+          <file leaf-file-name="BinarySearchTrees.java" pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/src/elements_of_programming_interviews/BinarySearchTrees.java">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="627">
-                  <caret line="45" column="25" selection-start-line="45" selection-start-column="25" selection-end-line="45" selection-end-column="25" />
-                  <folding />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="ISBNCache.java" pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/src/elements_of_programming_interviews/ISBNCache.java">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="105">
-                  <caret line="7" column="56" selection-start-line="7" selection-start-column="56" selection-end-line="7" selection-end-column="56" />
+                <state relative-caret-position="540">
+                  <caret line="36" column="0" selection-start-line="36" selection-start-column="0" selection-end-line="36" selection-end-column="0" />
                   <folding>
                     <element signature="imports" expanded="true" />
                   </folding>
@@ -69,15 +47,13 @@
       </split-first>
       <split-second>
         <leaf>
-          <file leaf-file-name="SortsTest.java" pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/src/elements_of_programming_interviews/SortsTest.java">
+          <file leaf-file-name="BinarySearchTreesTest.java" pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/src/elements_of_programming_interviews/BinarySearchTreesTest.java">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="525">
-                  <caret line="35" column="42" selection-start-line="35" selection-start-column="42" selection-end-line="35" selection-end-column="42" />
+                <state relative-caret-position="1200">
+                  <caret line="80" column="55" selection-start-line="80" selection-start-column="55" selection-end-line="80" selection-end-column="55" />
                   <folding>
                     <element signature="imports" expanded="true" />
-                    <element signature="e#211#212#0" expanded="true" />
-                    <element signature="e#247#248#0" expanded="true" />
                   </folding>
                 </state>
               </provider>
@@ -118,7 +94,6 @@
         <option value="$PROJECT_DIR$/src/elements_of_programming_interviews/MyQueues.java" />
         <option value="$PROJECT_DIR$/src/elements_of_programming_interviews/BTNode.java" />
         <option value="$PROJECT_DIR$/src/elements_of_programming_interviews/BinaryTrees.java" />
-        <option value="$PROJECT_DIR$/src/elements_of_programming_interviews/BinaryTreesTest.java" />
         <option value="$PROJECT_DIR$/src/elements_of_programming_interviews/MyStacksTest.java" />
         <option value="$PROJECT_DIR$/src/elements_of_programming_interviews/MyStacks.java" />
         <option value="$PROJECT_DIR$/src/elements_of_programming_interviews/StarTest.java" />
@@ -131,11 +106,14 @@
         <option value="$PROJECT_DIR$/src/elements_of_programming_interviews/Searches.java" />
         <option value="$PROJECT_DIR$/src/elements_of_programming_interviews/MyHashTablesTest.java" />
         <option value="$PROJECT_DIR$/src/elements_of_programming_interviews/MyHashTables.java" />
-        <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/src/elements_of_programming_interviews/ISBNCacheTest.java" />
         <option value="$PROJECT_DIR$/src/elements_of_programming_interviews/SortsTest.java" />
         <option value="$PROJECT_DIR$/src/elements_of_programming_interviews/Sorts.java" />
         <option value="$PROJECT_DIR$/src/elements_of_programming_interviews/ISBNCache.java" />
+        <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/src/elements_of_programming_interviews/BinaryTreesTest.java" />
+        <option value="$PROJECT_DIR$/src/elements_of_programming_interviews/BinarySearchTreesTest.java" />
+        <option value="$PROJECT_DIR$/src/elements_of_programming_interviews/BinarySearchTrees.java" />
       </list>
     </option>
   </component>
@@ -242,21 +220,7 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.SortsTest">
-    <configuration default="false" name="Star" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="elements_of_programming_interviews.Star" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="Algorithms_Java" />
-      <envs />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="JUnit.BinarySearchTreesTest">
     <configuration default="false" name="HeapsTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Algorithms_Java" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
@@ -323,6 +287,26 @@
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PACKAGE_NAME" value="elements_of_programming_interviews" />
       <option name="MAIN_CLASS_NAME" value="elements_of_programming_interviews.SortsTest" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="false" name="BinarySearchTreesTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Algorithms_Java" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="elements_of_programming_interviews" />
+      <option name="MAIN_CLASS_NAME" value="elements_of_programming_interviews.BinarySearchTreesTest" />
       <option name="METHOD_NAME" />
       <option name="TEST_OBJECT" value="class" />
       <option name="VM_PARAMETERS" value="-ea" />
@@ -503,19 +487,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Application.Star" />
-      <item index="1" class="java.lang.String" itemvalue="JUnit.HeapsTest" />
-      <item index="2" class="java.lang.String" itemvalue="JUnit.SearchesTest" />
-      <item index="3" class="java.lang.String" itemvalue="JUnit.MyHashTablesTest" />
-      <item index="4" class="java.lang.String" itemvalue="JUnit.SortsTest" />
+      <item index="0" class="java.lang.String" itemvalue="JUnit.HeapsTest" />
+      <item index="1" class="java.lang.String" itemvalue="JUnit.SearchesTest" />
+      <item index="2" class="java.lang.String" itemvalue="JUnit.MyHashTablesTest" />
+      <item index="3" class="java.lang.String" itemvalue="JUnit.SortsTest" />
+      <item index="4" class="java.lang.String" itemvalue="JUnit.BinarySearchTreesTest" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="JUnit.SortsTest" />
-        <item index="1" class="java.lang.String" itemvalue="JUnit.MyHashTablesTest" />
-        <item index="2" class="java.lang.String" itemvalue="JUnit.SearchesTest" />
-        <item index="3" class="java.lang.String" itemvalue="JUnit.HeapsTest" />
-        <item index="4" class="java.lang.String" itemvalue="Application.Star" />
+        <item index="0" class="java.lang.String" itemvalue="JUnit.BinarySearchTreesTest" />
+        <item index="1" class="java.lang.String" itemvalue="JUnit.SortsTest" />
+        <item index="2" class="java.lang.String" itemvalue="JUnit.MyHashTablesTest" />
+        <item index="3" class="java.lang.String" itemvalue="JUnit.SearchesTest" />
+        <item index="4" class="java.lang.String" itemvalue="JUnit.HeapsTest" />
       </list>
     </recent_temporary>
   </component>
@@ -533,14 +517,14 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="SortsTest - 2017.12.14 at 13h 58m 59s.xml">
-      <configuration name="SortsTest" configurationId="JUnit" />
+    <history-entry file="BinarySearchTreesTest - 2017.12.14 at 15h 58m 06s.xml">
+      <configuration name="BinarySearchTreesTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="SortsTest - 2017.12.14 at 13h 59m 46s.xml">
-      <configuration name="SortsTest" configurationId="JUnit" />
+    <history-entry file="BinarySearchTreesTest - 2017.12.14 at 15h 59m 22s.xml">
+      <configuration name="BinarySearchTreesTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="SortsTest - 2017.12.14 at 13h 59m 55s.xml">
-      <configuration name="SortsTest" configurationId="JUnit" />
+    <history-entry file="BinarySearchTreesTest - 2017.12.14 at 16h 02m 02s.xml">
+      <configuration name="BinarySearchTreesTest" configurationId="JUnit" />
     </history-entry>
     <history-entry file="SortsTest - 2017.12.14 at 14h 03m 08s.xml">
       <configuration name="SortsTest" configurationId="JUnit" />
@@ -693,24 +677,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/elements_of_programming_interviews/BTNode.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="570">
-          <caret line="38" column="21" selection-start-line="38" selection-start-column="21" selection-end-line="38" selection-end-column="21" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/elements_of_programming_interviews/BinaryTreesTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="432">
-          <caret line="46" column="0" selection-start-line="46" selection-start-column="0" selection-end-line="46" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/elements_of_programming_interviews/MyStacks.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="612">
@@ -735,14 +701,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
           <caret line="7" column="22" selection-start-line="7" selection-start-column="22" selection-end-line="7" selection-end-column="22" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/elements_of_programming_interviews/BinaryTrees.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="282">
-          <caret line="30" column="25" selection-start-line="30" selection-start-column="25" selection-end-line="30" selection-end-column="25" />
           <folding />
         </state>
       </provider>
@@ -849,14 +807,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="585">
-          <caret line="39" column="30" selection-start-line="39" selection-start-column="30" selection-end-line="39" selection-end-column="30" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/elements_of_programming_interviews/ISBNCacheTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
@@ -879,16 +829,66 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/elements_of_programming_interviews/Sorts.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="627">
-          <caret line="45" column="25" selection-start-line="45" selection-start-column="25" selection-end-line="45" selection-end-column="25" />
+        <state relative-caret-position="222">
+          <caret line="18" column="30" selection-start-line="18" selection-start-column="30" selection-end-line="18" selection-end-column="30" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/elements_of_programming_interviews/ISBNCache.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="56" selection-start-line="7" selection-start-column="56" selection-end-line="7" selection-end-column="56" />
+        <state relative-caret-position="150">
+          <caret line="10" column="0" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="645">
+          <caret line="43" column="43" selection-start-line="43" selection-start-column="43" selection-end-line="43" selection-end-column="43" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/elements_of_programming_interviews/BinaryTrees.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="30" column="9" selection-start-line="30" selection-start-column="9" selection-end-line="30" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/elements_of_programming_interviews/BTNode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="570">
+          <caret line="38" column="21" selection-start-line="38" selection-start-column="21" selection-end-line="38" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/elements_of_programming_interviews/BinaryTreesTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="702">
+          <caret line="63" column="5" selection-start-line="10" selection-start-column="3" selection-end-line="63" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/elements_of_programming_interviews/BinarySearchTreesTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1200">
+          <caret line="80" column="55" selection-start-line="80" selection-start-column="55" selection-end-line="80" selection-end-column="55" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/elements_of_programming_interviews/BinarySearchTrees.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="540">
+          <caret line="36" column="0" selection-start-line="36" selection-start-column="0" selection-end-line="36" selection-end-column="0" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>

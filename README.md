@@ -38,3 +38,7 @@ Selected problems starting from Chapter 5.
 
 #### Chapter 13 Sorting:
 - 13.2 Merge two sorted arrays
+
+#### Chapter 14 Binary Search Trees:
+- 14.2 Find the first key greater than a given value in a BST
+- 14.3 Find the k largest elements in a BST

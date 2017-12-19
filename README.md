@@ -42,3 +42,15 @@ Selected problems starting from Chapter 5.
 #### Chapter 14 Binary Search Trees:
 - 14.2 Find the first key greater than a given value in a BST
 - 14.3 Find the k largest elements in a BST
+
+#### Chapter 15 Recursion:
+- 15.0a Boot Camp: Find GCD (greatest common denominator)
+- 15.0b Boot Camp: Compute a placement of triominoes (did not do)
+- 15.1 The Towers of Hanoi problem
+- 15.2 Generate all non-attacking placements of n-Queens
+
+#### Chapter 16 Dynamic Programming:
+- 16.0a Boot Camp: Compute Fibonacci numbers
+- 16.0b Boot Camp: Find the maximum sum over all subarrays
+- 16.1 Count the number of score combinations
+- 16.2 Compute the Levenshtein distance
